@@ -1,0 +1,11 @@
+.suggestion-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+
+.arrow-icon {
+  width: 20px;
+  cursor: pointer;
+}
